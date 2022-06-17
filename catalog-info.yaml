@@ -3,7 +3,9 @@ kind: Component
 metadata:
   name: backstage-sandbox
   description: |
-    Backstage is an open-source developer portal that puts the developer experience first.
+    Backstage/ sandbox github testing for perf.
+  annotations:
+    backstage.io/techdocs-ref: https://hp-nbs.atlassian.net/wiki/spaces/HD/pages/2237562881/D+A+Performance+-+BACKSTAGE.io+plugin+investigation 
   links:
     - title: test
       url: http://backstage.io
