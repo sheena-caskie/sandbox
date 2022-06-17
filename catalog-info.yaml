@@ -3,14 +3,13 @@ kind: Component
 metadata:
   name: backstage-sandbox
   description: |
-    Backstage/ sandbox github testing for perf.
-  annotations:
-    backstage.io/techdocs-ref: https://hp-nbs.atlassian.net/wiki/spaces/HD/pages/2237562881/D+A+Performance+-+BACKSTAGE.io+plugin+investigation 
+    Backstage/ sandbox github testing for perf. 
   links:
     - title: test
       url: http://backstage.io
   annotations:
     github.com/project-slug: sheena-caskie/sandbox
+    backstage.io/techdocs-ref: https://hp-nbs.atlassian.net/wiki/spaces/HD/pages/2237562881/D+A+Performance+-+BACKSTAGE.io+plugin+investigation
 spec:
   type: library
   owner: sandbox
